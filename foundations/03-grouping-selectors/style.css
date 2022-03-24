@@ -1,7 +1,16 @@
-.buttons{
+.first,
+.second {
     font-size: 28px;
     font-family: "Helvetica", "Times New Roman", sans-serif;
+}
 
+.first{
+    /*First button*/
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.second {
     /*Second button*/
     background-color: rgb(253, 228, 0);
 }
